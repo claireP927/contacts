@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 26.5//EN
+N:Glineur;Céline;;;
+FN:Céline Glineur
+TEL;type=WORK;type=VOICE;type=pref:+33 6 11 52 35 26
+TEL;type=CELL;type=VOICE:+33 6 80 26 58 63
+END:VCARD
